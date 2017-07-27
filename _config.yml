@@ -1,22 +1,21 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Home
+description: Official Website
+author: Nikolas Lim
+logo: /socialistintelunion.github.io/static/img/avatar.jpg
+github: https://github.com/SocialistIntelUnion
+about: The De Facto Propaganda Minister
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://SocialistIntelUnion.github.io"
+url: "https://SocialistIntelUnion.github.io"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+# disqus_shortname: aboutashu
+# google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
   fb_appid: 000000000000
-
 
 enableTags: true
 tagarray: []
