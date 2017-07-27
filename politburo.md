@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Comrades
-permalink: /comrades/
+title: The Politburo
+permalink: /politburo/
 ---
 
-## Comrades of The Socialist Intel Union
+## Politburo of The Socialist Intel Union
 
 **Secretary General** -- _Samuel Koh_
 
